@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "egSpPb6AS66i/NQopFjg7VHRzC05jYrSu88c5O+k/MpmcHD9+fUK3s4tcBTXKyU24zPKP7BT8Tko07bEz3xgAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\Documents\\Visual Studio 2022\\Solutions\\WebAPICourse\\EmployeeDepBL\\EmployeeDep.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.5\\microsoft.extensions.identity.core.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.5\\microsoft.extensions.identity.stores.7.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

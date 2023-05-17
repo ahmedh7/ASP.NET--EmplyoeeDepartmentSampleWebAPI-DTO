@@ -1,0 +1,14 @@
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.AssemblyInfo.cs
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\bin\Debug\net7.0\EmployeeDepDAL.deps.json
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\bin\Debug\net7.0\EmployeeDepDAL.runtimeconfig.json
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\bin\Debug\net7.0\EmployeeDepDAL.dll
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\bin\Debug\net7.0\EmployeeDepDAL.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.dll
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\refint\EmployeeDepDAL.dll
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\EmployeeDepDAL.genruntimeconfig.cache
+C:\Users\Ahmed\Documents\Visual Studio 2022\Solutions\WebAPICourse\EmployeeDepDAL\obj\Debug\net7.0\ref\EmployeeDepDAL.dll
