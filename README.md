@@ -1,6 +1,6 @@
 # ASP.NET-WebAPI-DTO
 WebAPI using ASP.NET and C#, Implementing DTO (Data Transfer Object) Design Pattern.
-The solution can be downloaded, then connected to a database then run correct
+Untill now, the solution can be downloaded, then connected to a database in order to run (Modify the connection string accordingly).
 
 ### BL: 
 - The layer that handles the business logic
